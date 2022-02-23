@@ -1,0 +1,320 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The chaplains petition to the Honourable House for redress of grievances. By one of the camp chaplains</title>
+            <author>One of the camp chaplains.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31667</idno>
+            <idno type="STC">Wing C1940</idno>
+            <idno type="STC">ESTC R215107</idno>
+            <idno type="EEBO-CITATION">99827090</idno>
+            <idno type="PROQUEST">99827090</idno>
+            <idno type="VID">31503</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31667)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31503)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1863:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The chaplains petition to the Honourable House for redress of grievances. By one of the camp chaplains</title>
+                  <author>One of the camp chaplains.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for the use of the petitioners; and sold by Tho. Ranew in Fleet-Street near Temple Barr,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1693]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>In verse.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Clergy --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:31503:1"/>
+            <!-- PDF PAGE 1 -->
+            <head>THE <hi>Chaplains Petition</hi> TO THE HONOURABLE HOUSE For Redreſs of Grievances.</head>
+            <byline>By one of the Camp Chaplains.</byline>
+            <lg n="1">
+               <head>1.</head>
+               <l>SInce the Ladies 'gainſt Men</l>
+               <l>Have to Paper put Pen</l>
+               <l>By way of Moſt humble Petition,</l>
+               <l>In hope your good pleaſure</l>
+               <l>Will once be at leiſure</l>
+               <l>To mend their now Scurvy Condition.</l>
+            </lg>
+            <lg n="2">
+               <head>2.</head>
+               <l>And ſince you allow</l>
+               <l>That impertinent Crew,</l>
+               <l>Your Patience to weary and vex,</l>
+               <l>With a thing of no moment,</l>
+               <l>That has ſmall weight, or none in't,</l>
+               <l>But's as Idle and Light as their Sex.</l>
+            </lg>
+            <lg n="3">
+               <head>3.</head>
+               <l>We, humble Famelicks,</l>
+               <l>Divinity's Reliques,</l>
+               <l>In plain Engliſh, Chaplains Domeſtick;</l>
+               <l>To make known our grievance</l>
+               <l>For you to relieve once,</l>
+               <l>On your Door do our earneſt Requeſt ſtick.</l>
+            </lg>
+            <lg n="4">
+               <pb n="2" facs="tcp:31503:2"/>
+               <!-- PDF PAGE 2 -->
+               <head>4.</head>
+               <l>
+                  <hi>Viz.</hi> Be it Enacted,</l>
+               <l>That as we've contracted,</l>
+               <l>Our Salaries may be Paid us:</l>
+               <l>That when we're diſmiſt ill</l>
+               <l>We may not go whiſtle,</l>
+               <l>As an ord'nary Footman or Maid do's.</l>
+            </lg>
+            <lg n="5">
+               <head>5.</head>
+               <l>For as to the Land all,</l>
+               <l>It will be a Scandal</l>
+               <l>To ſee Sons of <hi>Levi</hi> go Thread-bare;</l>
+               <l>Even ſo to be ſure,</l>
+               <l>If the Paſtor is poor,</l>
+               <l>His Flock will ne're greet him with Head bare.</l>
+            </lg>
+            <lg n="6">
+               <head>6</head>
+               <l>Next, when we've ſaid Grace,</l>
+               <l>Let's at Table have place,</l>
+               <l>And not ſculk among the Waiters:</l>
+               <l>Or come in with the Fruit</l>
+               <l>To give thanks, and ſneak out,</l>
+               <l>To Dine upon half empty Platters.</l>
+            </lg>
+            <lg n="7">
+               <head>7.</head>
+               <l>But beſides ſtore of Diſhes</l>
+               <l>(One part of our Wiſhes)</l>
+               <l>To fortifie Maw Sacerdotal:</l>
+               <l>Elemoſinary Funk,</l>
+               <l>And leave to be Drunk,</l>
+               <l>We humbly deſire you to Vote all.</l>
+            </lg>
+            <lg n="8">
+               <head>8.</head>
+               <l>
+                  <hi>Item,</hi> Pray make us able</l>
+               <l>To command Steed in Stable,</l>
+               <l>When we are diſpos'd <hi>ad ridendum:</hi>
+               </l>
+               <l>And if we want Boots,</l>
+               <l>Whips, Spurs, or Sartoots,</l>
+               <l>Oblige ſurly Groom ſtraight to lend them.</l>
+            </lg>
+            <lg n="9">
+               <head>9.</head>
+               <l>Nor let our great Patrons,</l>
+               <l>Or their ruling Matrons,</l>
+               <l>Read the Butlers a Juniper Lecture,</l>
+               <l>If ſometimes they paſs</l>
+               <l>To our hands a ſtoln glaſs,</l>
+               <l>Or ſome little Orts of Confecture.</l>
+            </lg>
+            <lg n="10">
+               <pb n="3" facs="tcp:31503:2"/>
+               <!-- PDF PAGE 2 -->
+               <head>10.</head>
+               <l>When long we have ſerv'd,</l>
+               <l>And Preferment deſerv'd,</l>
+               <l>Let's not miſs of our juſt Expectations;</l>
+               <l>By every Fopp's Letter</l>
+               <l>For his Friend, that's no better,</l>
+               <l>Or our Patron's more Block-head Relations.</l>
+            </lg>
+            <lg n="11">
+               <head>11.</head>
+               <l>For 'tis cauſe of grieving</l>
+               <l>To ſee a good Living</l>
+               <l>Which our Thoughts had long been fixt on,</l>
+               <l>Be giv'n to a Wigeon</l>
+               <l>With no more Religion,</l>
+               <l>And Learning much leſs than his Sexton.</l>
+            </lg>
+            <lg n="12">
+               <head>12.</head>
+               <l>Nor yet let Matrimony,</l>
+               <l>The worſt ſort of Simony,</l>
+               <l>Be the Price of our Preſentations:</l>
+               <l>Nor to wed a caſt Miſtreſs</l>
+               <l>When ſhe's in great diſtreſs,</l>
+               <l>Our requiſite Qualification.</l>
+            </lg>
+            <lg n="13">
+               <head>13.</head>
+               <l>And if't be our chance</l>
+               <l>To ſerve againſt <hi>France,</hi>
+               </l>
+               <l>At Sea, on the <hi>Rhine,</hi> or in <hi>Flanders;</hi>
+               </l>
+               <l>We earneſtly ſue t' ye,</l>
+               <l>That exempt from all duty</l>
+               <l>We may Dine with our Pious Commanders.</l>
+            </lg>
+            <lg n="14">
+               <head>14.</head>
+               <l>Then Brandy good ſtore,</l>
+               <l>With ſeveral things more,</l>
+               <l>Which we Sons o'th' Church have a right in:</l>
+               <l>But chiefly w' intreat,</l>
+               <l>You'll never forget</l>
+               <l>To excuſe us from Preaching and Fighting.</l>
+            </lg>
+            <lg n="15">
+               <head>15.</head>
+               <l>Let not a Commiſſion</l>
+               <l>So change the condition</l>
+               <l>Of him that juſt carried a Halbert;</l>
+               <l>That a Dunce of no Letters</l>
+               <l>Should Hector his Betters,</l>
+               <l>For truly we cannot at all bear 't.</l>
+            </lg>
+            <lg n="16">
+               <pb n="4" facs="tcp:31503:3"/>
+               <!-- PDF PAGE 3 -->
+               <head>16.</head>
+               <l>Nor when the War's done,</l>
+               <l>Let's be broke ev'ry one,</l>
+               <l>To languiſh in Rags and lye idle;</l>
+               <l>Nor be ſo ill ſerv'd,</l>
+               <l>To be left to be ſtarv'd,</l>
+               <l>And kept by a Bear, and a Fiddle.</l>
+            </lg>
+            <lg n="17">
+               <head>17.</head>
+               <l>May it therefore you Pleaſe,</l>
+               <l>For your own and our Eaſe</l>
+               <l>To relieve us without heſitation:</l>
+               <l>For the Grievances told,</l>
+               <l>Are as frequent and old</l>
+               <l>As any beſides in the Nation.</l>
+            </lg>
+            <lg n="18">
+               <head>18.</head>
+               <l>Then on us take Pity,</l>
+               <l>And chuſe a Committee,</l>
+               <l>Let no other Buſineſs prevent ye;</l>
+               <l>Our requeſt do not ſpurn,</l>
+               <l>Nor Vote it to Burn</l>
+               <l>With a <hi>Nemine Contradicente.</hi>
+               </l>
+            </lg>
+            <lg n="19">
+               <head>19.</head>
+               <l>To this if you yield,</l>
+               <l>Our Mouths ſhall be fill'd</l>
+               <l>With Encomiums of your Piety;</l>
+               <l>Whoſe excellent Fame</l>
+               <l>We will loudly Proclaim</l>
+               <l>And worſhip next that of the Deity.</l>
+            </lg>
+            <lg n="20">
+               <head>20.</head>
+               <l>When thus you remove</l>
+               <l>What we diſapprove,</l>
+               <l>We all, down to Z from the Letter A;</l>
+               <l>By Night and by Day,</l>
+               <l>Will fervently Pray,</l>
+               <l>As in Duty bound, <hi>&amp;c a.</hi>
+               </l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for the uſe of the Petitioners; and ſold by <hi>Tho. Ranew</hi> in <hi>Fleet-Street</hi> near <hi>Temple Barr.</hi> 1693.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
